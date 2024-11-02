@@ -6,11 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, you! I'm a fourth year undergraduate student from [School of Power and Mechanical Engieering](https://pmc.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes bio-robotics, micro-robotics, machine learning, and artificial intelligence.
+Hello, you! I'm a fourth year undergraduate student from [School of Power and Mechanical Engieering](https://pmc.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes bio-robotics, micro-robotics, machine learning, and artificial intelligence. My Email:1620974639@qq.com.
 
 You can find my CV here: [Shaonanshi'CV](../assets/Resume.pdf).
 
-[Email](1620974639@qq.com) / [Github](https://github.com/yinianfo) / [Wechat](../images/wechat.jpg) / [Bilibili](https://space.bilibili.com/1268831231?spm_id_from=333.1007.0.0)
+ [Github](https://github.com/yinianfo) / [Wechat](../images/wechat.jpg) / [Bilibili](https://space.bilibili.com/1268831231?spm_id_from=333.1007.0.0)
 ————————————————
 
 Getting started
