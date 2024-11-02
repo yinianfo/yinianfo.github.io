@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, you! I'm a fourth year undergraduate student from [School of Power and Mechanical Engieering](https://pmc.whu.edu.cn/), [Wuhan University](https://www.pku.edu.cn/). My research interest includes bio-robotics, micro-robotics, machine learning, and artificial intelligence.
+Hello, you! I'm a fourth year undergraduate student from [School of Power and Mechanical Engieering](https://pmc.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes bio-robotics, micro-robotics, machine learning, and artificial intelligence.
 
 You can find my CV here: [Shaonanshi'CV](../assets/Resume.pdf).
 
