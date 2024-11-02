@@ -21,7 +21,7 @@ repository               : "yinianfo/yinianfo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "wechat.jpg"
   name             : "ShaonanShi"
   pronouns         : # example: "she/her"  
   bio              : "Dance till we die."
